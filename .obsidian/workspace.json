@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "ffc3d565d238b710",
+    "type": "split",
+    "children": [
+      {
+        "id": "51245274982c370f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f7d63da574fb323",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5ad8669a13702ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a514d70c02be5886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0666112eb44f7f61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53c820d17a8e548e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59b68f18cc6e8a8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3cc0ac37cc146db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec6915e3c20e03da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9d0088307a8cf33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Typescript Type System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5ccc3a3480d27b43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GIT commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bd3654184d708726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c5b098c0915430d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bf45481c812e2bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT commands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d916bf5e9317d254",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "GIT commands.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0666112eb44f7f61",
+  "lastOpenFiles": [
+    "typescript_type_system.md",
+    "welcome.md",
+    "ai/stabilizing_gradients.md",
+    "stabilizing_gradients.md",
+    "logits_probabilities_likelihood_mle_and_bce.md",
+    "ai/logits_probabilities_likelihood_mle_and_bce.md",
+    "linux_operators.md",
+    "ai/logits,_probabilities,_likelihood,_mle,_and_bce.md",
+    "ai",
+    "AI/logits,_probabilities,_likelihood,_mle,_and_bce.md",
+    "AI/stabilizing_gradients.md",
+    "projects/mafateeh/images/screenshot_from_2026-10-17_12-36-08.png",
+    "projects/mafateeh/images/screenshot_from_2026-10-17_12-35-25.png",
+    "projects/mafateeh/images/screenshot_from_2026-10-17_12-35-05.png",
+    "projects/mafateeh/images/screenshot_from_2026-10-17_12-34-31.png",
+    "projects/mafateeh/images/screenshot_from_2026-10-17_12-33-47.png",
+    "projects/mafateeh/images/screenshot_from_2026-10-17_12-33-31.png",
+    "projects/sorting_ai/main.md",
+    "projects/mafateeh/untitled.canvas",
+    "projects/mafateeh/images",
+    "projects/mafateeh/drawing_2026-10-18_12.32.15.excalidraw.md",
+    "projects/mafateeh/decisions.md",
+    "projects/sorting_ai",
+    "projects/mafateeh",
+    "projects",
+    "Projects/mafateeh/images/screenshot_from_2026-10-17_12-36-08.png",
+    "Projects/mafateeh/images/screenshot_from_2026-10-17_12-35-25.png",
+    "Projects/mafateeh/images/screenshot_from_2026-10-17_12-35-05.png",
+    "Projects/mafateeh/images/screenshot_from_2026-10-17_12-34-31.png",
+    "Projects/mafateeh/untitled.canvas",
+    "Projects/mafateeh/images",
+    "Projects/mafateeh/drawing_2026-10-18_12.32.15.excalidraw.md",
+    "Projects/mafateeh/decisions.md",
+    "Projects/mafateeh",
+    "Projects/Mafateeh/untitled.canvas",
+    "Projects/Mafateeh/decisions.md",
+    "cool_ts_type_snippets.md",
+    "linux_commands.md",
+    "prisma_relation_opertators.md",
+    "github_readme.md.md",
+    "creating_types.md",
+    "type_unions.md",
+    "git_commands.md",
+    "react_rendering.md",
+    "ts_type_predicate.md",
+    "assets",
+    "dailynotes/2026-06-27.md",
+    "dailynotes",
+    "Projects/Sorting AI",
+    "Projects/Mafateeh/Untitled.canvas"
+  ]
+}

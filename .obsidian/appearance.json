@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Tokyo Night",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "center-image"
+  ]
+}

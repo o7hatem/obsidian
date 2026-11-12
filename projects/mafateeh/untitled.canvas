@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"6c2ac219e0a7f103","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-33-47.png","x":-160,"y":-820,"width":400,"height":250},
+		{"id":"147c0725ecf12cf9","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-35-25.png","x":-620,"y":-460,"width":400,"height":250},
+		{"id":"1f2224ca67cb8c33","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-36-08.png","x":-160,"y":-460,"width":400,"height":250},
+		{"id":"bbef8ca9083bf46b","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-34-31.png","x":280,"y":-820,"width":400,"height":250},
+		{"id":"67f7bc424c5c7030","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-35-05.png","x":280,"y":-460,"width":400,"height":250},
+		{"id":"5e223c20d7b2dfc1","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-33-31.png","x":-620,"y":-820,"width":400,"height":250},
+		{"id":"3c7ec6226544537b","type":"text","text":"Learning","x":-620,"y":-520,"width":250,"height":60},
+		{"id":"4fe2600de597e794","type":"text","text":"Testing","x":-620,"y":-880,"width":250,"height":60},
+		{"id":"3c3efc422ee9dc40","type":"text","text":"The squares are good for learning letters at the beginning to separate them instead of showing them conjected.","x":-603,"y":-320,"width":366,"height":110},
+		{"id":"ef5b651095d08033","type":"text","text":"The keys color-coded by which finger is used to press them.","x":336,"y":-290,"width":288,"height":80},
+		{"id":"a1c7afddad7c0065","type":"file","file":"Projects/Mafateeh/Images/Screenshot From 2026-10-17 12-36-08.png","x":-1448,"y":-120,"width":1656,"height":1035}
+	],
+	"edges":[]
+}
